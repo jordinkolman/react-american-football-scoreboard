@@ -116,7 +116,13 @@
 .homeButtons__touchdown,
 .homeButtons__fieldGoal,
 .awayButtons__touchdown,
-.awayButtons__fieldGoal {
+.awayButtons__fieldGoal,
+.homeButtons__extraPoint,
+.homeButtons__safety,
+.homeButtons__twoPointConversion,
+.awayButtons__extraPoint,
+.awayButtons__safety,
+.awayButtons__twoPointConversion {
   margin: 1rem;
   border-radius: 4px;
 }
